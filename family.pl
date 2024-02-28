@@ -1,10 +1,3 @@
-% Emil Silber
-% 27/02/2024
-% 3CHIF
-% Description: This is a simple family tree in Prolog. 
-
-% ------------------------
-
 % Task 1
 
 % parent(Parent, Child) 
